@@ -11,15 +11,6 @@
             "group": {
                 "kind": "build",
             }
-        },
-        {
-            "label": "Package Mod: Fusion Reactor",
-            "type": "shell",
-            "command": "python fpackage.py \"%FACTORIO_LOCATION%\\mods\" \"sei-fusion-reactor\"",
-            "problemMatcher": [],
-            "group": {
-                "kind": "build",
-            }
-        },
+        }
     ]
 }
